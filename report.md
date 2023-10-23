@@ -2,7 +2,7 @@
 ---
 
 ## Part 1
-![Image](https://github.com/donovantran/cse15l-lab-report2/blob/6ac90d34127681dab5badba885b63e19810c8e5b/StringSever%20Code.png)
+![Image](stringservercode.png)
 
 This is the image for the code for my StringServer.
 
@@ -18,9 +18,9 @@ This is the image for the code for my StringServer.
 
 
 ## Part 2
-![Image](https://github.com/donovantran/cse15l-lab-report2/blob/b5990d813754a01fa6861acae2e1107578978701/ls%20ssh.png)
+![Image](lsssh.png)
 
-![Image](https://github.com/donovantran/cse15l-lab-report2/blob/b5990d813754a01fa6861acae2e1107578978701/public%20key.png)
+![Image](publickey.png)
 
 ![Image](login.png)
 
