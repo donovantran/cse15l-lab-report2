@@ -20,9 +20,21 @@ This is the image for the code for my StringServer.
 ## Part 2
 ![Image](privatekey.png)
 
-![Image](f.png)
+This is the private key path for the logging into ieng6 on my personal computer.
+
+---
+
+![Image](publickey1.png)
+
+This is the public key path for logging into ieng6 within my account on igen6.
+
+---
 
 ![Image](login.png)
+
+This is logging into the account without being prompted a password.
+
+---
 
 ## Part 3
 I have definitely learned a lot between the past two labs. Some of the things I learned about was the creation of a web server and the parts of URL. Coming from community college, a lot of the material did not transfer over like it was suppose to. This class was suppose to be taking in concurrent with CSE 12, but I had already completed that at CC. However, the material we learned in the equivalent courses did not cover anything about the terminal or even how to set up a web server. So while I feel like I am on the back burner of trying to catch up with all this information, the lab has been fun and has taught me a lot. 
