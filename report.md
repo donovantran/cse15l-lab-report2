@@ -18,9 +18,9 @@ This is the image for the code for my StringServer.
 
 
 ## Part 2
-![Image](lsssh.png)
+![Image](privatekey.png)
 
-![Image](publickey.png)
+![Image](f.png)
 
 ![Image](login.png)
 
